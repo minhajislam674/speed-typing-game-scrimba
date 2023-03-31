@@ -1,4 +1,4 @@
-# Spped Typing Game - Scrimba Project
+# Speed Typing Game - Scrimba Project
 
 > This is a speed typing game (Scrimba project) to learn advanced React concepts and React hooks. The game allows users to test
 > their typing speed while having fun.
